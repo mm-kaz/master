@@ -1,0 +1,11 @@
+sample,group,path
+M2oocyte_rep1,case1,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/M2oocyte_rep1_SRR2927026/mm10/rsem/SRR2927026.genes.results
+M2oocyte_rep2,case1,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/M2oocyte_rep2_SRR2927027/mm10/rsem/SRR2927027.genes.results
+zygote_rep1,case2,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/zygote_rep1_SRR1840514/mm10/rsem/SRR1840514.genes.results
+zygote_rep2,case2,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/zygote_rep2_SRR1840515/mm10/rsem/SRR1840515.genes.results
+2cell_rep1,case3,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/2cell_rep1_SRR1840516/mm10/rsem/SRR1840516.genes.results
+2cell_rep2,case3,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/2cell_rep2_SRR1840517/mm10/rsem/SRR1840517.genes.results
+early-2cell_rep1,case4,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/early-2cell_rep1_SRR2927028/mm10/rsem/SRR2927028.genes.results
+early-2cell_rep2,case4,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/early-2cell_rep2_SRR2927029/mm10/rsem/SRR2927029.genes.results
+4cell_rep1,case5,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/4cell_rep1_SRR1840518/mm10/rsem/SRR1840518.genes.results
+4cell_rep2,case5,/Users/shigenseigyo/Desktop/analysis/rna-seq/nature2016(GSE66390)/4cell_rep2_SRR1840519/mm10/rsem/SRR1840519.genes.results
