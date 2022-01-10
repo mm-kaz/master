@@ -1,0 +1,12 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,CHILD_GO_MyList
+1,-3.421657009185484,GO:0050789,regulation of biological process,M1,1,GO:1902806 regulation of cell cycle G1/S phase transition
+1,-3.189838889447059,GO:0050896,response to stimulus,M1,1,GO:0009268 response to pH
+1,-2.5066464705288807,GO:0048519,negative regulation of biological process,M1,1,GO:1902807 negative regulation of cell cycle G1/S phase transition
+1,-2.5066464705288807,GO:0008152,metabolic process,M1,1,GO:0009062 fatty acid catabolic process
+1,-2.274480165494888,GO:0048518,positive regulation of biological process,M1,1,GO:0120162 positive regulation of cold-induced thermogenesis
+1,-1.9474883261403582,GO:0023052,signaling,M1,1,GO:0090101 negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway
+1,-1.811686814890056,GO:0051179,localization,M1,1,GO:1904950 negative regulation of establishment of protein localization
+1,-1.8037723905714638,GO:0032501,multicellular organismal process,M1,1,GO:0120161 regulation of cold-induced thermogenesis
+1,-1.620538636672227,GO:0002376,immune system process,M1,1,GO:0002699 positive regulation of immune effector process
+1,-1.5184863803709905,GO:0022610,biological adhesion,M1,1,GO:0031589 cell-substrate adhesion
+1,-1.4505768251353373,GO:0032502,developmental process,M1,1,GO:0048738 cardiac muscle tissue development

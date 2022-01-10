@@ -1,0 +1,57 @@
+_MEMBER_MyList,_LogP_MyList,GO,Description,_PATTERN_,_RANK_,GiniIndex
+1,-1.4,GO:0042578,phosphoric ester hydrolase activity,M1,1,0
+1,-1.7,GO:0016788,"hydrolase activity, acting on ester bonds",M1,1,0
+1,-2.3,GO:0070848,response to growth factor,M1,1,0
+1,-1.4,GO:0005911,cell-cell junction,M1,1,0
+1,-1.6,GO:0009725,response to hormone,M1,1,0
+1,-1.4,GO:0015318,inorganic molecular entity transmembrane transporter activity,M1,1,0
+1,-1.6,GO:0044282,small molecule catabolic process,M1,1,0
+1,-3.4,GO:1902806,regulation of cell cycle G1/S phase transition,M1,1,0
+1,-2.2,GO:0008324,cation transmembrane transporter activity,M1,1,0
+1,-2,GO:2000177,regulation of neural precursor cell proliferation,M1,1,0
+1,-3.2,GO:0009268,response to pH,M1,1,0
+1,-1.5,GO:1903829,positive regulation of protein localization,M1,1,0
+1,-2.5,GO:0009062,fatty acid catabolic process,M1,1,0
+1,-2,GO:0070161,anchoring junction,M1,1,0
+1,-1.6,GO:1901990,regulation of mitotic cell cycle phase transition,M1,1,0
+1,-1.5,GO:0016054,organic acid catabolic process,M1,1,0
+1,-1.8,GO:0022890,inorganic cation transmembrane transporter activity,M1,1,0
+1,-2.2,GO:0045833,negative regulation of lipid metabolic process,M1,1,0
+1,-1.7,GO:0006812,cation transport,M1,1,0
+1,-2,GO:0004519,endonuclease activity,M1,1,0
+1,-1.3,GO:0061629,RNA polymerase II-specific DNA-binding transcription factor binding,M1,1,0
+1,-2.7,GO:2000045,regulation of G1/S transition of mitotic cell cycle,M1,1,0
+1,-2.5,GO:1902807,negative regulation of cell cycle G1/S phase transition,M1,1,0
+1,-1.5,GO:0046395,carboxylic acid catabolic process,M1,1,0
+1,-1.7,GO:0003779,actin binding,M1,1,0
+1,-2.3,GO:0120162,positive regulation of cold-induced thermogenesis,M1,1,0
+1,-1.8,GO:0120161,regulation of cold-induced thermogenesis,M1,1,0
+1,-1.8,GO:1901987,regulation of cell cycle phase transition,M1,1,0
+1,-1.6,GO:0051020,GTPase binding,M1,1,0
+1,-1.4,GO:0000323,lytic vacuole,M1,1,0
+1,-2.2,GO:0072329,monocarboxylic acid catabolic process,M1,1,0
+1,-1.4,GO:0060562,epithelial tube morphogenesis,M1,1,0
+1,-1.6,GO:0030055,cell-substrate junction,M1,1,0
+1,-1.5,GO:0031589,cell-substrate adhesion,M1,1,0
+1,-1.3,GO:1903828,negative regulation of protein localization,M1,1,0
+1,-2.1,GO:0051015,actin filament binding,M1,1,0
+1,-1.8,GO:1904950,negative regulation of establishment of protein localization,M1,1,0
+1,-1.7,GO:0031267,small GTPase binding,M1,1,0
+1,-1.5,GO:0004518,nuclease activity,M1,1,0
+1,-1.7,GO:0010008,endosome membrane,M1,1,0
+1,-1.6,GO:0042803,protein homodimerization activity,M1,1,0
+1,-1.6,GO:0005773,vacuole,M1,1,0
+1,-1.3,GO:1901988,negative regulation of cell cycle phase transition,M1,1,0
+1,-1.3,GO:0051960,regulation of nervous system development,M1,1,0
+1,-1.6,GO:0002699,positive regulation of immune effector process,M1,1,0
+1,-1.4,GO:0005764,lysosome,M1,1,0
+1,-1.9,GO:0090101,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,M1,1,0
+1,-1.7,GO:0071363,cellular response to growth factor stimulus,M1,1,0
+1,-1.6,GO:0005925,focal adhesion,M1,1,0
+1,-3,GO:0031253,cell projection membrane,M1,1,0
+1,-1.5,GO:0048738,cardiac muscle tissue development,M1,1,0
+1,-1.5,GO:0007346,regulation of mitotic cell cycle,M1,1,0
+1,-1.5,GO:0044242,cellular lipid catabolic process,M1,1,0
+1,-1.4,GO:0030139,endocytic vesicle,M1,1,0
+1,-1.7,GO:0031256,leading edge membrane,M1,1,0
+1,-1.5,GO:0005261,cation channel activity,M1,1,0

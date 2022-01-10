@@ -1,0 +1,57 @@
+Category,CategoryID,GO,Description,PARENT_GO,LogP,Enrichment,Z-score,#TotalGeneInLibrary,#GeneInGO,#GeneInHitList,#GeneInGOAndHitList,%InGO,STDV %InGO,GeneID,Hits,Log(q-value),GeneList
+GO Biological Processes,19,GO:1902806,regulation of cell cycle G1/S phase transition,19_GO:0050789 regulation of biological process,-3.4,8.1,5.6,20580,171,74,5,6.8,2.9,11477|15586|19651|20674|216190,Acvr1|Hyal1|Rbl2|Sox2|Appl2,0,MyList
+GO Biological Processes,19,GO:0009268,response to pH,19_GO:0050896 response to stimulus,-3.2,18,6.9,20580,47,74,3,4.1,2.3,11881|15586|332396,Arsb|Hyal1|Kcnk18,0,MyList
+GO Cellular Components,20,GO:0031253,cell projection membrane,,-3,5.2,4.6,20580,320,74,6,8.1,3.2,12788|14725|20909|69538|108096|216190,Cnga1|Lrp2|Stx4a|Antxr1|Slco1a5|Appl2,0,MyList
+GO Biological Processes,19,GO:2000045,regulation of G1/S transition of mitotic cell cycle,19_GO:0050789 regulation of biological process,-2.7,7.6,4.8,20580,146,74,4,5.4,2.6,11477|15586|19651|216190,Acvr1|Hyal1|Rbl2|Appl2,0,MyList
+GO Biological Processes,19,GO:0009062,fatty acid catabolic process,19_GO:0008152 metabolic process,-2.5,10,5,20580,81,74,3,4.1,2.3,14245|15107|56357,Lpin1|Hadh|Ivd,0,MyList
+GO Biological Processes,19,GO:1902807,negative regulation of cell cycle G1/S phase transition,19_GO:0048519 negative regulation of biological process,-2.5,10,5,20580,81,74,3,4.1,2.3,11477|19651|20674,Acvr1|Rbl2|Sox2,0,MyList
+GO Biological Processes,19,GO:0120162,positive regulation of cold-induced thermogenesis,19_GO:0048518 positive regulation of biological process,-2.3,8.5,4.5,20580,98,74,3,4.1,2.3,14245|15107|216190,Lpin1|Hadh|Appl2,0,MyList
+GO Biological Processes,19,GO:0070848,response to growth factor,19_GO:0050896 response to stimulus,-2.3,3.7,3.5,20580,446,74,6,8.1,3.2,11477|14725|15586|20674|216190|396184,Acvr1|Lrp2|Hyal1|Sox2|Appl2|Flrt1,0,MyList
+GO Biological Processes,19,GO:0072329,monocarboxylic acid catabolic process,19_GO:0008152 metabolic process,-2.2,8.2,4.4,20580,102,74,3,4.1,2.3,14245|15107|56357,Lpin1|Hadh|Ivd,0,MyList
+GO Biological Processes,19,GO:0045833,negative regulation of lipid metabolic process,19_GO:0048519 negative regulation of biological process,-2.2,7.9,4.3,20580,106,74,3,4.1,2.3,14245|216190|244373,Lpin1|Appl2|Erlin2,0,MyList
+GO Molecular Functions,21,GO:0008324,cation transmembrane transporter activity,,-2.2,3.2,3.3,20580,618,74,7,9.5,3.4,11984|12788|22042|55991|116914|320508|332396,Atp6v0c|Cnga1|Tfrc|Panx1|Slc19a2|Cachd1|Kcnk18,0,MyList
+GO Molecular Functions,21,GO:0051015,actin filament binding,,-2.1,5.1,3.7,20580,218,74,4,5.4,2.6,16796|55991|69538|235431,Lasp1|Panx1|Antxr1|Coro2b,0,MyList
+GO Biological Processes,19,GO:2000177,regulation of neural precursor cell proliferation,19_GO:0050789 regulation of biological process,-2,7,3.9,20580,120,74,3,4.1,2.3,14725|20674|216190,Lrp2|Sox2|Appl2,0,MyList
+GO Cellular Components,20,GO:0070161,anchoring junction,,-2,2.9,3.1,20580,661,74,7,9.5,3.4,11548|16796|55991|73347|227485|235431|396184,Adra1b|Lasp1|Panx1|Cldn34b2|Cdh19|Coro2b|Flrt1,0,MyList
+GO Molecular Functions,21,GO:0004519,endonuclease activity,,-2,6.8,3.9,20580,122,74,3,4.1,2.3,66161|78416|330554,Pop4|Rnase6|Fan1,0,MyList
+GO Biological Processes,19,GO:0090101,negative regulation of transmembrane receptor protein serine/threonine kinase signaling pathway,19_GO:0023052 signaling,-1.9,6.5,3.7,20580,129,74,3,4.1,2.3,11477|14725|52662,Acvr1|Lrp2|Ldlrad4,0,MyList
+GO Biological Processes,19,GO:1901987,regulation of cell cycle phase transition,19_GO:0050789 regulation of biological process,-1.8,3.5,3,20580,401,74,5,6.8,2.9,11477|15586|19651|20674|216190,Acvr1|Hyal1|Rbl2|Sox2|Appl2,0,MyList
+GO Biological Processes,19,GO:1904950,negative regulation of establishment of protein localization,19_GO:0051179 localization,-1.8,5.8,3.5,20580,145,74,3,4.1,2.3,15107|19387|235431,Hadh|Rangap1|Coro2b,0,MyList
+GO Biological Processes,19,GO:0120161,regulation of cold-induced thermogenesis,19_GO:0032501 multicellular organismal process,-1.8,5.7,3.4,20580,146,74,3,4.1,2.3,14245|15107|216190,Lpin1|Hadh|Appl2,0,MyList
+GO Molecular Functions,21,GO:0022890,inorganic cation transmembrane transporter activity,,-1.8,3,2.8,20580,565,74,6,8.1,3.2,11984|12788|22042|55991|320508|332396,Atp6v0c|Cnga1|Tfrc|Panx1|Cachd1|Kcnk18,0,MyList
+GO Molecular Functions,21,GO:0031267,small GTPase binding,,-1.7,4,3,20580,281,74,4,5.4,2.6,19387|20909|27277|216190,Rangap1|Stx4a|Golga5|Appl2,0,MyList
+GO Molecular Functions,21,GO:0016788,"hydrolase activity, acting on ester bonds",,-1.7,2.6,2.7,20580,754,74,7,9.5,3.4,11881|14245|66161|67905|78416|79560|330554,Arsb|Lpin1|Pop4|Ppm1m|Rnase6|Ublcp1|Fan1,0,MyList
+GO Biological Processes,19,GO:0006812,cation transport,19_GO:0051179 localization,-1.7,2.6,2.7,20580,756,74,7,9.5,3.4,11984|14725|22042|55991|116914|320508|332396,Atp6v0c|Lrp2|Tfrc|Panx1|Slc19a2|Cachd1|Kcnk18,0,MyList
+GO Cellular Components,20,GO:0010008,endosome membrane,,-1.7,3.9,3,20580,284,74,4,5.4,2.6,22042|52348|52662|216190,Tfrc|Vps37a|Ldlrad4|Appl2,0,MyList
+GO Cellular Components,20,GO:0031256,leading edge membrane,,-1.7,5.3,3.2,20580,158,74,3,4.1,2.3,20909|69538|216190,Stx4a|Antxr1|Appl2,0,MyList
+GO Biological Processes,19,GO:0071363,cellular response to growth factor stimulus,19_GO:0050896 response to stimulus,-1.7,3.2,2.8,20580,431,74,5,6.8,2.9,11477|14725|15586|216190|396184,Acvr1|Lrp2|Hyal1|Appl2|Flrt1,0,MyList
+GO Molecular Functions,21,GO:0003779,actin binding,,-1.7,3.1,2.7,20580,444,74,5,6.8,2.9,16796|55991|69538|170947|235431,Lasp1|Panx1|Antxr1|Myoz3|Coro2b,0,MyList
+GO Biological Processes,19,GO:0009725,response to hormone,19_GO:0050896 response to stimulus,-1.6,2.7,2.6,20580,610,74,6,8.1,3.2,11548|11881|14245|14725|19387|216190,Adra1b|Arsb|Lpin1|Lrp2|Rangap1|Appl2,0,MyList
+GO Molecular Functions,21,GO:0042803,protein homodimerization activity,,-1.6,2.5,2.5,20580,786,74,7,9.5,3.4,11477|22042|27277|66646|101700|216190|333433,Acvr1|Tfrc|Golga5|Rpe|Trim68|Appl2|Gpd1l,0,MyList
+GO Cellular Components,20,GO:0005925,focal adhesion,,-1.6,4.9,3.1,20580,169,74,3,4.1,2.3,16796|235431|396184,Lasp1|Coro2b|Flrt1,0,MyList
+GO Biological Processes,19,GO:0002699,positive regulation of immune effector process,19_GO:0002376 immune system process,-1.6,3.7,2.8,20580,304,74,4,5.4,2.6,20909|22042|216190|234311,Stx4a|Tfrc|Appl2|Ddx60,0,MyList
+GO Biological Processes,19,GO:1901990,regulation of mitotic cell cycle phase transition,19_GO:0050789 regulation of biological process,-1.6,3.6,2.8,20580,311,74,4,5.4,2.6,11477|15586|19651|216190,Acvr1|Hyal1|Rbl2|Appl2,0,MyList
+GO Cellular Components,20,GO:0005773,vacuole,,-1.6,2.6,2.5,20580,631,74,6,8.1,3.2,11881|11984|15586|20909|52120|78416,Arsb|Atp6v0c|Hyal1|Stx4a|Hgsnat|Rnase6,0,MyList
+GO Biological Processes,19,GO:0044282,small molecule catabolic process,19_GO:0008152 metabolic process,-1.6,3.5,2.7,20580,314,74,4,5.4,2.6,14245|15107|56357|66646,Lpin1|Hadh|Ivd|Rpe,0,MyList
+GO Molecular Functions,21,GO:0051020,GTPase binding,,-1.6,3.5,2.7,20580,317,74,4,5.4,2.6,19387|20909|27277|216190,Rangap1|Stx4a|Golga5|Appl2,0,MyList
+GO Cellular Components,20,GO:0030055,cell-substrate junction,,-1.6,4.6,2.9,20580,182,74,3,4.1,2.3,16796|235431|396184,Lasp1|Coro2b|Flrt1,0,MyList
+GO Biological Processes,19,GO:0007346,regulation of mitotic cell cycle,19_GO:0050789 regulation of biological process,-1.5,2.9,2.5,20580,478,74,5,6.8,2.9,11477|15586|19651|216190|223723,Acvr1|Hyal1|Rbl2|Appl2|Ttll12,0,MyList
+GO Molecular Functions,21,GO:0005261,cation channel activity,,-1.5,3.4,2.6,20580,325,74,4,5.4,2.6,12788|55991|320508|332396,Cnga1|Panx1|Cachd1|Kcnk18,0,MyList
+GO Biological Processes,19,GO:0031589,cell-substrate adhesion,19_GO:0022610 biological adhesion,-1.5,4.4,2.8,20580,188,74,3,4.1,2.3,19944|69538|235431,Rpl29|Antxr1|Coro2b,0,MyList
+GO Biological Processes,19,GO:1903829,positive regulation of protein localization,19_GO:0051179 localization,-1.5,2.8,2.5,20580,488,74,5,6.8,2.9,14725|20909|22042|235431|333433,Lrp2|Stx4a|Tfrc|Coro2b|Gpd1l,0,MyList
+GO Biological Processes,19,GO:0044242,cellular lipid catabolic process,19_GO:0008152 metabolic process,-1.5,4.4,2.8,20580,190,74,3,4.1,2.3,14245|15107|56357,Lpin1|Hadh|Ivd,0,MyList
+GO Biological Processes,19,GO:0046395,carboxylic acid catabolic process,19_GO:0008152 metabolic process,-1.5,4.2,2.7,20580,198,74,3,4.1,2.3,14245|15107|56357,Lpin1|Hadh|Ivd,0,MyList
+GO Molecular Functions,21,GO:0004518,nuclease activity,,-1.5,4.2,2.7,20580,199,74,3,4.1,2.3,66161|78416|330554,Pop4|Rnase6|Fan1,0,MyList
+GO Biological Processes,19,GO:0048738,cardiac muscle tissue development,19_GO:0032502 developmental process,-1.5,4.2,2.7,20580,200,74,3,4.1,2.3,11477|11548|14725,Acvr1|Adra1b|Lrp2,0,MyList
+GO Biological Processes,19,GO:0016054,organic acid catabolic process,19_GO:0008152 metabolic process,-1.5,4.2,2.7,20580,200,74,3,4.1,2.3,14245|15107|56357,Lpin1|Hadh|Ivd,0,MyList
+GO Molecular Functions,21,GO:0042578,phosphoric ester hydrolase activity,,-1.4,3.1,2.4,20580,356,74,4,5.4,2.6,14245|67905|79560|330554,Lpin1|Ppm1m|Ublcp1|Fan1,0,MyList
+GO Molecular Functions,21,GO:0015318,inorganic molecular entity transmembrane transporter activity,,-1.4,2.4,2.2,20580,702,74,6,8.1,3.2,11984|12788|22042|55991|320508|332396,Atp6v0c|Cnga1|Tfrc|Panx1|Cachd1|Kcnk18,0,MyList
+GO Cellular Components,20,GO:0030139,endocytic vesicle,,-1.4,4,2.6,20580,211,74,3,4.1,2.3,14725|20909|216190,Lrp2|Stx4a|Appl2,0,MyList
+GO Cellular Components,20,GO:0005911,cell-cell junction,,-1.4,2.6,2.3,20580,528,74,5,6.8,2.9,11548|55991|73347|227485|396184,Adra1b|Panx1|Cldn34b2|Cdh19|Flrt1,0,MyList
+GO Biological Processes,19,GO:0060562,epithelial tube morphogenesis,19_GO:0032502 developmental process,-1.4,3,2.4,20580,366,74,4,5.4,2.6,11477|14725|19227|20674,Acvr1|Lrp2|Pthlh|Sox2,0,MyList
+GO Cellular Components,20,GO:0000323,lytic vacuole,,-1.4,2.6,2.2,20580,539,74,5,6.8,2.9,11881|11984|15586|52120|78416,Arsb|Atp6v0c|Hyal1|Hgsnat|Rnase6,0,MyList
+GO Cellular Components,20,GO:0005764,lysosome,,-1.4,2.6,2.2,20580,539,74,5,6.8,2.9,11881|11984|15586|52120|78416,Arsb|Atp6v0c|Hyal1|Hgsnat|Rnase6,0,MyList
+GO Biological Processes,19,GO:1901988,negative regulation of cell cycle phase transition,19_GO:0048519 negative regulation of biological process,-1.3,3.8,2.5,20580,220,74,3,4.1,2.3,11477|19651|20674,Acvr1|Rbl2|Sox2,0,MyList
+GO Biological Processes,19,GO:1903828,negative regulation of protein localization,19_GO:0051179 localization,-1.3,3.8,2.5,20580,221,74,3,4.1,2.3,15107|19387|235431,Hadh|Rangap1|Coro2b,0,MyList
+GO Molecular Functions,21,GO:0061629,RNA polymerase II-specific DNA-binding transcription factor binding,,-1.3,3,2.3,20580,377,74,4,5.4,2.6,14245|14725|20674|101700,Lpin1|Lrp2|Sox2|Trim68,0,MyList
+GO Biological Processes,19,GO:0051960,regulation of nervous system development,19_GO:0032502 developmental process,-1.3,2.5,2.2,20580,554,74,5,6.8,2.9,14245|14725|20674|216190|396184,Lpin1|Lrp2|Sox2|Appl2|Flrt1,0,MyList
